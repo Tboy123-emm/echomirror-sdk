@@ -1,0 +1,15 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/redis-cursor-store",
+    "main"
+  ],
+  "parent": {
+    "feat/redis-cursor-store": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "feat/redis-cursor-store"
+  ]
+}
